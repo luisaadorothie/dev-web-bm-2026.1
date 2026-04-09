@@ -1,0 +1,18 @@
+/* ID -  único */
+#abner{
+    color: rgb(0, 119, 255);
+    font-size: 20px;
+}
+
+/*classe - vários elementos */
+.alunos{
+    color: rgb(183, 42, 3);
+    font-size: 20px;
+}
+
+/* Classe adicional */
+.destaque{
+    font-weight: bold;
+    background-color: lightgray;
+    text-align: center;
+}
